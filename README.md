@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**miawmiawmeol/miawmiawmeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ==================== NO 3: TECH STACK & AI TOOLS ==================== -->
+## 🔥 Tech Stack & AI Tools
+<p>MY SKILL:</p>
 
-Here are some ideas to get you started:
+<!-- Baris Pertama: Bahasa Pemrograman -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<!-- Baris Kedua: Framework & Tools Lainnya -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+<br />
+<br />
+
+<!-- ==================== NO 4: STATS & GRAPH ==================== -->
+## 📊 My GitHub Stats
+
+<!-- GitHub Trophies (Sangat stabil & alternatif terbaik saat server stats utama down) -->
+<img src="https://github-profile-trophies.vercel.app/?username=lanpawikok&theme=onedark" alt="GitHub Trophies" />
+
+<br />
+<br />
+
+<!-- ==================== SNAKE GAME ANIMATION ==================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Open Source Snake Game" src="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
