@@ -26,16 +26,16 @@
 ## 📊 My GitHub Stats
 
 <!-- GitHub Trophies (Sangat stabil & alternatif terbaik saat server stats utama down) -->
-<img src="https://github-profile-trophies.vercel.app/?username=lanpawikok&theme=onedark" alt="GitHub Trophies" />
+<img src="https://github-profile-trophies.vercel.app/?username=miawmiawmeol&theme=onedark" alt="GitHub Trophies" />
 
 <br />
 <br />
 
 <!-- ==================== SNAKE GAME ANIMATION ==================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Open Source Snake Game" src="https://raw.githubusercontent.com/lanpawikok/lanpawikok/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miawmiawmeol/miawmiawmeol/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miawmiawmeol/miawmiawmeol/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Open Source Snake Game" src="https://raw.githubusercontent.com/miawmiawmeol/miawmiawmeol/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
